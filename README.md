@@ -1,1 +1,1 @@
-# mydrugs
+![Local image](images/White%20Logo.png) mydrugs
