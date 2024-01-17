@@ -1,1 +1,1 @@
-<img src="images/White Logo.png" width="200px" height="150px" alt="Your alt text"> mydrugs
+<img src="images/White Logo.png" width="80px" height="auto" alt="Your alt text"> mydrugs
