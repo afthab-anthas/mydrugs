@@ -84,6 +84,10 @@ body{
     justify-content: start;
     flex-direction: column;
     gap: 0%;
+    img;:hover{
+        transition: transform .3s;
+        transform: scale(1.1);
+    }
 
     h2{
         display: flex;
