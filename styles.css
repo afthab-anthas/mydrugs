@@ -1,0 +1,58 @@
+body{
+    background-color: #110f0e;
+    font-family: monospace;
+}
+
+.header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: -1%;
+    a{
+    text-decoration: none;
+    color: white;
+    font-family: monospace;
+    font-size: 15px;
+}
+    position: sticky;
+    z-index: 999;
+    top: 0;
+    height: 60px;
+    
+}
+.header img{
+    width: 40px;
+    padding: 1% 0;
+    
+}
+.header div{
+    display: flex;
+    gap: 10px;
+    margin: 0 1%;
+}
+
+.page-one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+}
+.page-one .text-one{
+    position: absolute; /* Layer on top of the image */
+    top: 50%; /* Position vertically in the middle */
+    left: 50%; /* Position horizontally in the middle */
+    transform: translate(-50%, -50%); /* Adjust for text container's dimensions */
+    color: #fedc30; /* Ensure text visibility on the image */
+    font-size: 24px; /* Adjust font size as needed */
+    text-shadow: 2px 2px 4px #c33e18; /* Optional text shadow */
+    text-align: center; /* Center the text within its container */
+}
+.page-one img{
+    margin-top: -5%;
+    object-fit: cover;
+    
+    
+}
+
