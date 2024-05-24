@@ -46,4 +46,7 @@ I believe i can improve it by  learning more about layouting more images and tex
 
 
 # **🍿Video**
-[text](images/mydrugs.mov)
+
+
+https://github.com/afthab-anthas/mydrugs/assets/147282277/b351c02e-d246-4534-b3c9-d5f7c583002a
+
