@@ -42,7 +42,9 @@ I learned alot of things about aligning and layouting in css and also the flexbo
 I believe i can improve it by  learning more about layouting more images and text but since i dont know much javascript i am limited to this website so once i learn javascript i will be more able to design websites with more responsiveness.
 
 # **🚦Running the Project**
+Disclaimer
 
+The information contained in this web site is recreated solely for educational purpose and does not promote any sort of drug use and therefore should not be treated seriously. With respect to materials (e.g., documents, photographs, audio recordings, video recordings, tools, data products, or services) on or available through download from this Web site, are random ai generated details and does not identify any real drugs. 
 
 
 # **🍿Video**
